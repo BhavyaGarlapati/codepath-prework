@@ -34,12 +34,11 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![GIF of losing game](http://g.recordit.co/S5gfQkf2yt.gif)
-![GIF of winning game](http://g.recordit.co/JtrjTCFga1.gif)
-![](gif3-link-here)
-![](gif4-link-here)
+![](gif2-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 [I used google search engine to troubleshoot some github access issues I was initially having, and was able to figure it out
 on my own! I was copying the wrong repo link which is why my work wasn't exporting from glitch.]
 
