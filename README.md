@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![GIF of losing game](http://g.recordit.co/S5gfQkf2yt.gif)
-![](gif2-link-here)
+![GIF of winning game](http://g.recordit.co/JtrjTCFga1.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
