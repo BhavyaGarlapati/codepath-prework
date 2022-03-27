@@ -4,7 +4,7 @@
 
 Submitted by: **Bhavya Garlapati**
 
-Time spent: **7** hours spent in total
+Time spent: **13** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/battle-outgoing-ironclad)
 
