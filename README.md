@@ -40,8 +40,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 
-    I used google search engine to troubleshoot some github access issues I was initially having, and was able to figure it out
-    on my own! I was copying the wrong repo link which is why my work wasn't exporting from glitch.
+    I used a search engine to troubleshoot some github access issues I was initially having, and was able to figure it out.
+    I was copying the wrong repo link which is why my work wasn't exporting from glitch. And later, when exporting
+    the files, github kept creating extra pull branches. I was able to troubleshoot how to merge branches and keep my project in
+    main. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
    
@@ -62,20 +64,20 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    
    After completing my submission, I have thought of a few questions involving security and design. My first question is, 
    how does cybersecurity software work with webpage code to protect the website and its users? Do web developers imbed 
-   their own cybersecurity within the webpage code or is it an entirely different program and system that works cohesively 
+   their own cybersecurity within the webpage code or is it an entirely different system that works cohesively 
    with the webpage code? Is it possible or necessary for me to imbed any sort of security for the Sound and Memory game if 
-   I was launching it onto a public server? I have taken an introductory course to cybersecurity in my university, and it is
+   it was launched onto a public server? I have taken an introductory course to cybersecurity in my university, and it is
    an area of expertise I would like to dive deeper into. My next questions are about implementing individual and purchased designs. 
-   Are there different functions/packages to implement different types of icons? Is it cheaper/easier for an individual to 
+   Are there different functions/packages to implement different types of icons? And, Is it cheaper/easier for an individual to 
    hardcore designs with HTML/CSS or for them to use a pre-designed website through companies such as Wix and Weebly?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
    
-   If I had a few more hours to work on this project, I would have focused on making it into a more traditional video game like webpage including multiple page shifts, more reactive buttons, and rewards. I would like to have a colorful home page with clearer instructions, images/characters, and a larger start button. After the user clicks start with a “cursor character” of their choice, the user would be taken to a new screen with a range of buttons to select a level (which will include more of the optional features), exit/back buttons, and a start game button which will finally take the user to the last screen for the game they created with the level and character selected based on their user input. Also, a countdown so the pattern doesn’t begin as abruptly. If time permitted, I would also like to create a point reward system. Points would be awarded based on the duration of the game and the number of wins a user scored in a row. These points could then be used as an incentive for users to return. Points earned could be used to unlock more “cursor characters” and levels. Overall, this system could encourage users to stay and play the game longer and make the experience more appealing to various demographics. This all may take more than a few hours, but I would try to implement as many working aspects as possible to make this project more multi-dimensional.
+   If I had a few more hours to work on this project, I would have focused on making it into a more traditional video game including multiple page shifts, more reactive buttons, and rewards. I would like to have a colorful home page with clearer instructions, images/characters, and a larger start button. After the user clicks start with a “cursor character” of their choice, the user would be taken to a new screen with a range of buttons to select a level (which will include more of the optional features), exit/back buttons, and a start game button. Then they will finally go to the last screen for the game they created with the level and character selected. Also having a countdown before the game begins would be nice so the pattern doesn’t begin as abruptly. If time permitted, I would also like to create a point reward system. Points would be awarded based on the duration of the game and the number of wins a user scored in a row. These points could then be used as an incentive for users to return. Points earned could be used to unlock more “cursor characters” and levels. Overall, this system could encourage users to stay and play the game longer and make the experience more appealing to various demographics. Though this all may take more than a few hours, I would try to implement as many working aspects as possible to make this project more multi-dimensional.
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/zUqAocF9n2k)
 
 ## License
 
